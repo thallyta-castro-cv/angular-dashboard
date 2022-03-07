@@ -27,7 +27,7 @@ Este projeto consiste em uma aplicação frontend, onde foi realizado a integra�
 * NPM
 
 # Iniciando o projeto
-Para iniciar a aplicação execute o seguinte comando na pasta dashboard
+Para iniciar a aplicação execute o seguinte comando no terminal dentro da pasta dashboard
 
 ```shell script
 ng serve
