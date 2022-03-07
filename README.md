@@ -1,27 +1,43 @@
-# Dashboard
+# Dashboard Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+<img align="center" alt="Thallyta-Js" height="200" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
 
-## Development server
+<b> Este projeto foi criado com Angular CLI 13.2.3 para colocar em prática o aprendizado sobre programação reativa com Observables do Angular </b>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Sobre o projeto
 
-## Code scaffolding
+Este projeto consiste em uma aplicação frontend, onde foi realizado a integração com a API de gráficos do google com o conceito de Observable para fazer um demonstrativo dos dados de livros lidos em um semestre. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Layout do projeto
 
-## Build
+![Dashboard](1.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Tecnologias utilizadas
 
-## Running unit tests
+* HTML
+* CSS 
+* Javascript
+* Fontawesome
+* Bootstrap 5
+* Google Chart API
+* Observable RxJs
+* Typescript 4.5.2
+* Angular CLI 13.2.3
+* Node
+* NPM
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Iniciando o projeto
+Para iniciar a aplicação execute o seguinte comando na pasta dashboard
 
-## Running end-to-end tests
+```shell script
+ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Autor
+<b>Thallyta Macedo Carvalho de Castro</b>
 
-## Further help
+Linkedin: https://www.linkedin.com/in/thallyta-castro/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Medium: https://medium.com/@thallyta-castro-cv
+
+email: contato@thallytacastro.com.br
